@@ -6,7 +6,7 @@
     "David Hale <david.hale7@gmail.com>"
   ],
   "license": "MIT",
-  "homepage": "",
+  "homepage": "https://github.com/phuzisham/online-store",
   "ignore": [
     "**/.*",
     "node_modules",
